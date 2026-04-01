@@ -44,14 +44,16 @@ Flutter & Dart: Base do desenvolvimento do projeto.
  
  Plaintextlib/
 ├── main.dart           # Ponto de entrada do app e definição de rotas
-├── models/             # Modelos de dados (opcional)T
+
+├── models/             # Modelos de dados (opcional)
+
 └── screens/            # Telas do aplicativo (Cadastro, Login e Home)
 
 
 ## Instruções para Executar Localmente
 Para rodar este projeto em sua máquina, siga os passos abaixo:
 Certifique-se de ter o Flutter SDK instalado e configurado.
-Clone este repositório:Bashgit clone [LINK_DO_SEU_REPOSITORIO]
+Clone este repositório:Bashgit clone (https://github.com/felps02/avaliacao_flutter)]
 Acesse a pasta do projeto:Bashcd nome_do_projeto
 Instale as dependências:Bashflutter pub get
 Execute o aplicativo:Bashflutter run
