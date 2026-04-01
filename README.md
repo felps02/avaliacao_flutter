@@ -42,7 +42,7 @@ Flutter & Dart: Base do desenvolvimento do projeto.
  ## Organização do Projeto
  A estrutura de pastas foi organizada para separar as responsabilidades do código:
  
- Plaintextlib/
+ lib/
 ├── main.dart           # Ponto de entrada do app e definição de rotas
 
 ├── models/             # Modelos de dados (opcional)
@@ -53,7 +53,10 @@ Flutter & Dart: Base do desenvolvimento do projeto.
 ## Instruções para Executar Localmente
 Para rodar este projeto em sua máquina, siga os passos abaixo:
 Certifique-se de ter o Flutter SDK instalado e configurado.
-Clone este repositório:Bashgit clone (https://github.com/felps02/avaliacao_flutter)]
-Acesse a pasta do projeto:Bashcd nome_do_projeto
-Instale as dependências:Bashflutter pub get
-Execute o aplicativo:Bashflutter run
+
+Clone este repositório:
+git clone (https://github.com/felps02/avaliacao_flutter)
+Acesse a pasta do projeto:cd avaliacao_flutter
+Instale as dependências:flutter pub get
+
+Execute o aplicativo:flutter run
